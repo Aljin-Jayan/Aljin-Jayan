@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Aljin%20Jayan&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Professional%20%7C%20Red%20Team%20%7C%20Penetration%20Tester&descAlignY=58&descSize=18&descColor=39d353" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Aljin%20Jayan&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Web%20App%20%26%20Network%20Penetration%20Tester&descAlignY=58&descSize=18&descColor=39d353" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Professional;Active+Directory+%26+Red+Team+Specialist;Web+Application+Penetration+Tester;Cybersecurity+Tool+Developer;OSCP+%7C+Offenso+Certified+Security+Pro" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Web+Application+Penetration+Tester;Network+Security+%26+Vulnerability+Assessment;OWASP+Top+10+%7C+CVE%2FCVSS+Analysis;OCSP+Certified" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
 
-[![OSCP Badge](https://img.shields.io/badge/OSCP-Offenso%20Certified%20Security%20Professional-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://offensohackers.academy)
+[![OCSP Badge](https://img.shields.io/badge/OCSP-Offenso%20Certified%20Security%20Professional-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://offensohackers.academy)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![GitHub followers](https://img.shields.io/github/followers/Aljin-Jayan?style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/Aljin-Jayan)
 
@@ -18,57 +18,55 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```bash
 ┌──(aljin㉿terminal)-[~]
 └─$ whoami
 
   Name    : Aljin Jayan
-  Role    : Cybersecurity Professional & Penetration Tester
-  Cert    : OSCP — Offenso Certified Security Professional
-  Focus   : Red Teaming · Active Directory · Web App Security
-  Labs    : Proxmox-based Vulnerable AD Lab (DC01, SRV01, CA01, WIN10)
-  Mission : Hack to defend. Break to understand. Build to protect.
+  Role    : Cybersecurity Analyst
+  Company : Hackware Security Solutions
+  Cert    : OCSP — Offenso Certified Security Professional
+  Focus   : Web App Pentesting · Network Security · Vulnerability Assessment
+  Degree  : B.Tech, Computer Science & Engineering (Cybersecurity)
+  Contact : aljinjayan@gmail.com
 ```
 
 ---
 
-## ⚔️ Cybersecurity Arsenal
+## Technical Skills
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### 🔴 Offensive
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+### Offensive
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Impacket](https://img.shields.io/badge/Impacket-black?style=flat-square&logo=python&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat-square&logoColor=white)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-darkred?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+Web App Pentesting, Network Exploitation, OWASP Top 10, XSS, SQLi, CSRF, Active Directory
 
 </td>
 <td valign="top" width="33%">
 
-### 🔵 Defensive
+### Defensive
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-blue?style=flat-square&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-FF0000?style=flat-square&logoColor=white)
+
+Vulnerability Assessment, CVE/CVSS, System Hardening, Traffic Analysis, Threat Modelling
 
 </td>
 <td valign="top" width="33%">
 
-### 💻 Dev & Infra
+### Dev & Infra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+Python, Bash, C, JavaScript (basic), Git, GitHub Actions, CI/CD Pipelines
 
 </td>
 </tr>
@@ -76,44 +74,38 @@
 
 ---
 
-## 🎯 Active Directory Attack Lab
+## Professional Experience
 
-> Built a **fully realistic, enterprise-grade vulnerable AD lab** on Proxmox for Red Team & Penetration Testing training.
+**Cybersecurity Analyst** — Hackware Security Solutions
+*May 2026 – Present · Kerala, India*
+- Conduct web application and network penetration tests, identifying vulnerabilities aligned with OWASP Top 10 and CVE/CVSS scoring frameworks.
+- Perform vulnerability assessments and deliver structured risk reports with prioritized remediation recommendations.
+- Execute threat modelling, security audits, and system hardening; validate fixes post-remediation with development teams.
 
-```
- ┌──────────────────────────────────────────────────────────────┐
- │  OFFENSO AD LAB — Network: 192.168.10.0/24                  │
- │                                                              │
- │  [DC01] Domain Controller ──── [SRV01] Member Server        │
- │      │  corp.local                    │                      │
- │      └─── [CA01] Certificate Auth ───┘                      │
- │                 │                                            │
- │           [WIN10-01] Workstation (victim)                    │
- └──────────────────────────────────────────────────────────────┘
-```
+**DevOps Intern** — Catalist ERP Solutions, Aluva, Kerala
+*May 2025 – Jul 2025*
+- Wrote Dockerfiles and configured GitHub Actions CI/CD pipelines; applied DevSecOps practices through automated testing and environment containerisation.
 
-**Vulnerabilities Implemented:**
-- `AS-REP Roasting` · `Kerberoasting` · `DCSync` · `Pass-the-Hash`
-- `ADCS ESC1` · `RBCD (Resource-Based Constrained Delegation)`
-- `LLMNR Poisoning` · `ACL Misconfigurations` · `GPO Abuse`
+**Cybersecurity Intern** — Pacelab, Kerala
+*Jun 2023 – Aug 2023*
+- Performed network scanning with Nmap and traffic analysis with Wireshark; documented findings in a structured vulnerability and risk assessment report with CVSS-based prioritization.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| 🛡️ [**Defenx**](https://github.com/Aljin-Jayan/Defenx) | Website Defacement Detection & Response System | Python · FastAPI | 🟢 Active |
-| 🔍 [**ReconGuard**](https://github.com/Aljin-Jayan/reconguard) | Reconnaissance & Security Monitoring Toolkit | Python | 🔒 Private |
-| 📰 [**News-Agent**](https://github.com/Aljin-Jayan/News-Agent) | AI-powered OSINT News Intelligence Agent | Python · AI | 🟢 Active |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**DefenX**](https://github.com/Aljin-Jayan/DefenX) | Chrome extension monitoring live DOM state, triggering a Python ML classifier to detect unauthorized content modifications in real time | Python · Chrome Extension · ML |
+| [**Vartha Agent**](https://github.com/Aljin-Jayan/Vartha-Agent) | Automated AI news agent using Google ADK and NLP to scrape and summarize Malayalam news articles, with modular multi-language architecture | Python · Google ADK · NLP |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aljin-Jayan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
@@ -126,20 +118,34 @@
 
 ---
 
-## 🏆 Certifications & Achievements
+## Education & Certifications
 
 <div align="center">
 
-| 🎖️ Certification | Issuer | Domain |
-|------------------|--------|--------|
-| **OSCP** — Offenso Certified Security Professional | Offenso Hackers Academy | Offensive Security |
-| Vulnerable AD Lab Builder | Self-Built on Proxmox | AD Exploitation & Red Team |
+| Credential | Issuer | Year |
+|------------|--------|------|
+| B.Tech — Computer Science & Engineering (Cybersecurity) | Ilahia College of Engineering and Technology, Kerala | 2021 – 2025 |
+| Offenso Certified Security Professional (OCSP) | Offenso Hackers Academy | 2026 |
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Leadership
+
+**Creative Innovation Lead**, IEDC (2024–25) — Organized 5+ technical workshops and a hackathon for 100+ students.
+
+**Tech Lead**, Game Development Club (2024–25) — Led a team of 8 across 3 projects with weekly mentoring.
+
+---
+
+## Languages
+
+English — Professional Proficiency &nbsp;|&nbsp; Malayalam — Native
+
+---
+
+## Connect With Me
 
 <div align="center">
 
