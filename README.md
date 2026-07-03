@@ -26,7 +26,6 @@
 
   Name    : Aljin Jayan
   Role    : Cybersecurity Analyst
-  Company : Hackware Security Solutions
   Cert    : OCSP — Offenso Certified Security Professional
   Focus   : Web App Pentesting · Network Security · Vulnerability Assessment
   Degree  : B.Tech, Computer Science & Engineering (Cybersecurity)
@@ -76,7 +75,7 @@ Python, Bash, C, JavaScript (basic), Git, GitHub Actions, CI/CD Pipelines
 
 ## Professional Experience
 
-**Cybersecurity Analyst** — Hackware Security Solutions
+**jr.Cybersecurity Analyst** — Hackware Security Solutions
 *May 2026 – Present · Kerala, India*
 - Conduct web application and network penetration tests, identifying vulnerabilities aligned with OWASP Top 10 and CVE/CVSS scoring frameworks.
 - Perform vulnerability assessments and deliver structured risk reports with prioritized remediation recommendations.
@@ -128,22 +127,6 @@ Python, Bash, C, JavaScript (basic), Git, GitHub Actions, CI/CD Pipelines
 | Offenso Certified Security Professional (OCSP) | Offenso Hackers Academy | 2026 |
 
 </div>
-
----
-
-## Leadership
-
-**Creative Innovation Lead**, IEDC (2024–25) — Organized 5+ technical workshops and a hackathon for 100+ students.
-
-**Tech Lead**, Game Development Club (2024–25) — Led a team of 8 across 3 projects with weekly mentoring.
-
----
-
-## Languages
-
-English — Professional Proficiency &nbsp;|&nbsp; Malayalam — Native
-
----
 
 ## Connect With Me
 
